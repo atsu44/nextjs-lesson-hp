@@ -13,4 +13,3 @@ export default function Post ({post}) {
     );
         };
 
-export default Post;
